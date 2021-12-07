@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-07 02:48:40</sys_created_on>
-        <sys_id>56dab741879809102e4ca6cd0ebb353c</sys_id>
+        <sys_id>cd6704dd1bd8c910de012026624bcb3b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_tsuzuki_1207_tbl</sys_name>
         <sys_package display_value="tsuzuki_1207" source="x_snc_tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_package>
         <sys_policy/>
         <sys_scope display_value="tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_tsuzuki_1207_tbl_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_tsuzuki_1207_tbl_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-07 02:48:40</sys_updated_on>
+        <sys_updated_on>2021-12-07 03:43:28</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
