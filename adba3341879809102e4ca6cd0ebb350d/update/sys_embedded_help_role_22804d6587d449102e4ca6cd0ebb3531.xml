@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_tsuzuki_1207.1208_test_tbl_user" name="x_snc_tsuzuki_1207.1208_test_tbl_user">ee80896587d449102e4ca6cd0ebb357f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 02:31:38</sys_created_on>
+        <sys_id>22804d6587d449102e4ca6cd0ebb3531</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ee80896587d449102e4ca6cd0ebb357f</sys_name>
+        <sys_package display_value="tsuzuki_1207" source="x_snc_tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_22804d6587d449102e4ca6cd0ebb3531</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 02:31:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

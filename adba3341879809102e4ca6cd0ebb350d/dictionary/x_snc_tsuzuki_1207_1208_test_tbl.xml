@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="1208_Test_TBL" max_length="40" name="x_snc_tsuzuki_1207_1208_test_tbl" sizeclass="1" type="collection">
+        <element label="S01" max_length="44" name="s01" type="string"/>
+        <element label="s02" max_length="33" name="s02" type="string"/>
+    </element>
+</database>

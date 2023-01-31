@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time>1970-01-01 00:00:00</entered_time>
+        <name>Access syslog from tsuzuki_1207</name>
+        <offset/>
+        <offset_type/>
+        <run_as display_value="システム(First Name)___abcdefgh 管理者(LastName)">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2022-01-19 01:28:28</run_start>
+        <run_time>1969-12-31 15:00:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[   var gr = new GlideRecord("syslog");
+    gr.get('79c3858787cd81102e4ca6cd0ebb35b7');
+	gs.info("@@@@ Access syslog from tsuzuki_1207");
+    gs.info('@@@@' + gr.message);
+]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-19 01:28:50</sys_created_on>
+        <sys_id>bed485c787cd81102e4ca6cd0ebb35ea</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Access syslog from tsuzuki_1207</sys_name>
+        <sys_package display_value="tsuzuki_1207" source="x_snc_tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_scope>
+        <sys_update_name>sysauto_script_bed485c787cd81102e4ca6cd0ebb35ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-19 01:29:54</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>
