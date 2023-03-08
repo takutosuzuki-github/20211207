@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_tsuzuki_1207.script_Include_A </api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>script_Include_A </name>
+        <script><![CDATA[var script_Include_A = Class.create();
+script_Include_A.prototype = {
+    initialize: function() {},
+
+    test: function() {},
+
+    type: 'script_Include_A '
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-08 07:22:49</sys_created_on>
+        <sys_id>151e4dc08721a1102e4ca6cd0ebb3511</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>script_Include_A </sys_name>
+        <sys_package display_value="tsuzuki_1207" source="x_snc_tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_scope>
+        <sys_update_name>sys_script_include_151e4dc08721a1102e4ca6cd0ebb3511</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-08 07:22:49</sys_updated_on>
+    </sys_script_include>
+</record_update>
