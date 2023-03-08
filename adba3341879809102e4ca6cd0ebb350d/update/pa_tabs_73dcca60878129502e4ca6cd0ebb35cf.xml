@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA itil HP 0213-1331 - New Tab">bfdcca60878129502e4ca6cd0ebb35cc</canvas_page>
+        <name>itil HP 0213-1331 - New Tab</name>
+        <page display_value="PA itil HP 0213-1331 - New Tab">37dcca60878129502e4ca6cd0ebb35cc</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 04:40:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>73dcca60878129502e4ca6cd0ebb35cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>itil HP 0213-1331 - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="tsuzuki_1207" source="x_snc_tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_scope>
+        <sys_update_name>pa_tabs_73dcca60878129502e4ca6cd0ebb35cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-13 04:40:37</sys_updated_on>
+    </pa_tabs>
+</record_update>

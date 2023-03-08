@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="itil HP 0213-1331">7fdcca60878129502e4ca6cd0ebb35cb</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>681b365ec0a80164000fb0b05854a0cd</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 04:41:34</sys_created_on>
+        <sys_id>3d1d8e60878129502e4ca6cd0ebb3520</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>681b365ec0a80164000fb0b05854a0cd</sys_name>
+        <sys_package display_value="tsuzuki_1207" source="x_snc_tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_3d1d8e60878129502e4ca6cd0ebb3520</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-13 04:41:34</sys_updated_on>
+        <type>3</type>
+        <user display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</application>
+        <file_path/>
+        <instance_id>31d1c64ddb7270100ae3ac44d49619eb</instance_id>
+        <instance_name>emptsuzukir4</instance_name>
+        <name>pa_dashboards_permissions_3d1d8e60878129502e4ca6cd0ebb3520</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions"><pa_dashboards_permissions action="INSERT_OR_UPDATE"><dashboard display_value="itil HP 0213-1331">7fdcca60878129502e4ca6cd0ebb35cb</dashboard><delete>false</delete><group/><identity>681b365ec0a80164000fb0b05854a0cd</identity><read>true</read><role/><sys_class_name>pa_dashboards_permissions</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-13 04:41:34</sys_created_on><sys_id>3d1d8e60878129502e4ca6cd0ebb3520</sys_id><sys_mod_count>0</sys_mod_count><sys_name>681b365ec0a80164000fb0b05854a0cd</sys_name><sys_package display_value="tsuzuki_1207" source="x_snc_tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_package><sys_policy/><sys_scope display_value="tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_scope><sys_update_name>pa_dashboards_permissions_3d1d8e60878129502e4ca6cd0ebb3520</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-13 04:41:34</sys_updated_on><type>3</type><user display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</user><write>false</write></pa_dashboards_permissions></record_update>]]></payload>
+        <payload_hash>-1165608531</payload_hash>
+        <record_name>681b365ec0a80164000fb0b05854a0cd</record_name>
+        <reverted_from/>
+        <source>2d69bebf87b5c1102e4ca6cd0ebb35ad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 04:41:34</sys_created_on>
+        <sys_id>b11d8e60878129502e4ca6cd0ebb3523</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1864914048e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-13 04:41:34</sys_updated_on>
+        <type>Dashboard Permissions</type>
+        <update_guid>b91d8e6052812950fcb902bdb4daf622</update_guid>
+        <update_guid_history>b91d8e6052812950fcb902bdb4daf622:-1165608531</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="681b365ec0a80164000fb0b05854a0cd">403d42a0878129502e4ca6cd0ebb3590</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 04:41:59</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>1751f699c02349c08c360259d27de440</sys_id>
+        <sys_metadata>3d1d8e60878129502e4ca6cd0ebb3520</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>681b365ec0a80164000fb0b05854a0cd</sys_name>
+        <sys_package display_value="tsuzuki_1207" source="x_snc_tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_scope>
+        <sys_scope_delete display_value="">e3bfc6c363674756971d3bc02cac8ed9</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_3d1d8e60878129502e4ca6cd0ebb3520</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_3d1d8e60878129502e4ca6cd0ebb3520">b11d8e60878129502e4ca6cd0ebb3523</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-13 04:41:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

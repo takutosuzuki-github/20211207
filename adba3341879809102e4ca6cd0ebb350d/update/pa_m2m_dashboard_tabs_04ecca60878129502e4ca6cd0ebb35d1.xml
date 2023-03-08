@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="itil HP 0213-1331">7fdcca60878129502e4ca6cd0ebb35cb</dashboard>
+        <home>false</home>
+        <homepage display_value="itil HP 0213-1331">3dcaceec874129502e4ca6cd0ebb35d0</homepage>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 04:40:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>04ecca60878129502e4ca6cd0ebb35d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>7fdcca60878129502e4ca6cd0ebb35cb</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="tsuzuki_1207" source="x_snc_tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tsuzuki_1207">adba3341879809102e4ca6cd0ebb350d</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_04ecca60878129502e4ca6cd0ebb35d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-13 04:40:38</sys_updated_on>
+        <tab display_value="itil HP 0213-1331 - New Tab">73dcca60878129502e4ca6cd0ebb35cf</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
